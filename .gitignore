@@ -16,6 +16,7 @@
 **/example
 **/*.zip
 **/*.mat
+**/synthetic_principal
 **/*.pt
 **/asset
 **/results_prev

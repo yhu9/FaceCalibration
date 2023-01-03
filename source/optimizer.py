@@ -35,7 +35,7 @@ class Optimizer():
             self.sfm_net = sfm_net
             self.calib_net = calib_net
 
-        self.model_path = os.path.join('model','test5_prev')
+        self.model_path = os.path.join('model')
         self.delta = torch.zeros((68,3),requires_grad=True)
         #self.calib_net.eval()
         #self.sfm_net.eval()

@@ -78,8 +78,7 @@ class ImageLoader():
 
 class TestLoader(Dataset):
     def __init__(self,f):
-        if os.path.isdir("../data"):
-            root_dir = os.path.join("../data/synthetic_principal",f"sequencef{f:04d}")
+        root_dir = os.path.join("../data/synthetic_principal",f"sequencef{f:04d}")
 
         self.root_dir = root_dir
         self.files = [os.path.join(root_dir,f) for f in os.listdir(root_dir)]
