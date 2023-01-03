@@ -1,5 +1,4 @@
 # FaceCalibration
-<<<<<<< HEAD
 Camera Self-Calibration Using Human Faces
 
 ## Creating Environment
@@ -10,7 +9,3 @@ your machine. I ran this on a remote server where I did not have admin privledge
 2. conda install pytorch pytorch=1.10.0 torchvision cudatoolkit=10.2
 3. pip install scikit-image matplotlib imageio plotly opencv-python             
 4. pip install pyyaml
-=======
-
-This github holds the codebase for the paper "Camera Self-Calibration Using Human Faces".
->>>>>>> c57286b20dd03b9d1deabd78a20ed319c6a4e0df
