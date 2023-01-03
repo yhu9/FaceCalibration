@@ -15,9 +15,9 @@
 **/*.pyc
 **/example
 **/*.zip
+**/*.mat
 **/*.pt
 **/asset
-**/matlab
 **/results_prev
 **/weights
 **/supp_results
