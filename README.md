@@ -1,5 +1,5 @@
 # FaceCalibration
-Camera Self-Calibration Using Human Faces. You can train the model and create a synthetic testing data yourself or simply download the trained model and testing data.
+Camera Self-Calibration Using Human Faces. You can train the model and create a synthetic testing data yourself or simply download the trained model and testing data. To run, use the commands for training and testing in the source directory.
 
 ## Creating Environment
 To create the environment from scratch using a conda environment use the following steps on Ubuntu.
